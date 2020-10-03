@@ -33,7 +33,7 @@ Mari berkontribusi membuat tutorial cara menggunakan GIT dengan bahasa Indonesia
 
 ## Membuat repository
     - Buka github kamu untuk membuat repository, lalu klik tanda + di sisi atas kanan github kamu, lalu pilih New Repository
-    ![Add New Repository](https://github.com/ansharw/hacktoberfest-how-to-use-git/blob/master/images/new-repos.png?raw=true)
+    ![Add New Repository](images/new-repos.png)
 ## Cloning repository
 
 ## Membuat branch
